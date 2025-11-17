@@ -2,56 +2,32 @@ Pig Game
 Built using HTML, CSS, and JavaScript
 
 The Pig Game is a browser-based two-player dice game where players roll a virtual dice to accumulate points. The game includes dynamic UI updates, turn switching, score tracking, and event-driven gameplay using JavaScript. Users can roll the dice, hold their score, and reset the game. The logic also handles conditions like rolling a 1, switching players, and checking for a winner. The project demonstrates DOM manipulation, event handling, and interactive game design.
+Steps to Run the Project
 
-Steps to start the project
-1. Create the Project Folder
-Make a new folder on your computer.
-Name it something like pig-game.
+Open Command Prompt
+Press Win + R → type cmd → Enter
 
-2. Create Three Files Inside the Folder
-Inside your folder, create these files:
-index.html
-style.css
-script.js
+Clone your repository
 
-These three files make up your website:
-HTML → structure
-CSS → design
-JavaScript → game logic
+git clone https://github.com/vishruthavishu297-star/Pig-Game.git
 
-3. Write HTML Structure
-Open index.html and add the basic page structure with the game layout.
-(You can copy your Pig Game HTML here.)
 
-4. Add Styling
-Open style.css and add the styles for the game design.
-(Use your project CSS.)
+Open the project folder
 
-5. Write the JavaScript Game Logic
-Open script.js and write the code for:
-rolling the dice
-switching players
-updating scores
-checking for winner
-resetting game
-(Use your existing JavaScript code.)
+cd Pig-Game
 
-6. Open the Game in a Browser
-Now simply:
-Go to your pig-game folder
-Double-click on index.html
-It will open in Chrome, Firefox, or any browser ✔️
-Your game will start working!
 
-7. Play the Game
-Click Roll Dice → adds dice points
-Click Hold → saves score & switches player
-Rolling 1 → resets current score & switches player
-First to reach 100 wins
+Open the folder in VS Code
 
-8. To Make Changes
-Whenever you edit:
-HTML
-CSS
-JavaScript
-Just save the file and refresh the browser.
+code .
+
+
+Run the project
+
+Open the index.html file in your browser
+OR
+
+Right-click index.html → Open with → Chrome
+
+Start playing!
+The game works directly in the browser — no server or installation needed.
